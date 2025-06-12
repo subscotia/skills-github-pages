@@ -6,5 +6,5 @@ title: Welcome to Subscotia Sound.
 ### Day One has been adjourned due to hardware failure.
 
 #### This page will be updated.
-Please watch this space. Studio A has already been booked for the recording sessions for *Scarred*.
+Please watch this space. Studio A has already been booked for the recording sessions for Scarred.
 ---
